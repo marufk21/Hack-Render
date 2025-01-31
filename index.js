@@ -4,7 +4,7 @@ import axios from "axios";
 const app = express();
 
 const urls = [
-  "hackrender.netlify.app",
+  "https://hack-render.onrender.com",
   "https://streamtalk.onrender.com/",
   "https://vibesta.onrender.com/login",
   // Add more URLs as needed
