@@ -1,4 +1,4 @@
-# Website Keep-Alive Service
+# Hack-Render (Keep-Alive Service)
 
 This project provides a simple solution to prevent free-tier services like Render from putting your website into sleep mode due to inactivity. It periodically sends HTTP GET requests to your website, ensuring it stays active.
 
